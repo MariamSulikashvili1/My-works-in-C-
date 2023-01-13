@@ -2,9 +2,10 @@
 #include <iostream>
 #include <string>
  using namespace std;
+
+//Calculator 
 int main()
 {
-    
 	int a, b, c, d; cout << "Input a:"; cin >> a; 
 	
     cout << "Input b:"; cin >> b; 
@@ -12,7 +13,7 @@ int main()
     cout << "sum is" << a + b-c*d<< endl; 	
 }
     
-    
+//Roman Numeral
 
 
 int main()
